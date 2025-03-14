@@ -1,7 +1,7 @@
 import MetaTrader5 as mt5
 import time
 from tqdm import tqdm
-import signals
+#REPLACE WITH YOUR OWN SIGNALS FILE
 import pickle
 import data
 
